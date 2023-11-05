@@ -9,10 +9,9 @@
 6. [Data Preprocessing](#data-preprocessing)
 7. [Building the Neural Network Model](#building-the-neural-network-model)
 8. [Model Training and Evaluation](#model-training-and-evaluation)
-9. [Future Work](#future-work)
-10. [Installation](#installation)
-11. [Contributing](#contributing)
-12. [Author](#author)
+9. [Installation](#installation)
+10. [Contributing](#contributing)
+11. [Author](#author)
   
 ## Introduction
 This project focuses on using neural networks to perform market segmentation based on customer demographics, behavior, and other relevant factors. Market segmentation is a crucial task for businesses looking to tailor their marketing strategies and offerings to specific customer segments.
@@ -42,9 +41,6 @@ We create a neural network model using TensorFlow and Keras. The model architect
 
 ## Model Training and Evaluation
 The model is trained on the preprocessed data and evaluated using appropriate metrics. Training and validation results are recorded and analyzed.
-
-## Future Work
-In future iterations of this project, we can explore additional datasets, fine-tune the model, and further improve segmentation accuracy.
 
 ## Installation
 1. Clone this repository to your local machine.
