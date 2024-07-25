@@ -14,13 +14,14 @@
 11. [Author](#author)
   
 ## Introduction
-This project focuses on using neural networks to perform market segmentation based on customer demographics, behavior, and other relevant factors. Market segmentation is a crucial task for businesses looking to tailor their marketing strategies and offerings to specific customer segments.
+Developed a neural network with 4 Dense layers for market segmentation using customer data. The model achieved a mean absolute error of 2.8181 on training data and 2.6434 on testing data. This model helps businesses tailor marketing strategies to specific customer segments.
+
 
 ## Project Overview
 In this project, we explore and analyze customer data from the provided datasets. We leverage deep learning techniques to build a neural network model that can effectively segment markets.
 
 ## Datasets
-We utilize two main datasets for this project:
+We have two main datasets for this project but we worked on Online Retail Data:
 - [Bank Marketing Data](https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing)
 - [Online Retail Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
@@ -50,8 +51,12 @@ The model is trained on the preprocessed data and evaluated using appropriate me
 
 Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. 
 
+[![GitHub watchers](https://img.shields.io/github/watchers/elsayedelmandoh/market_segmentation_neural_networks.svg?style=social&label=Watch)](https://GitHub.com/elsayedelmandoh/market_segmentation_neural_networks/watchers/?WT.mc_id=academic-105485-koreyst)
+[![GitHub forks](https://img.shields.io/github/forks/elsayedelmandoh/market_segmentation_neural_networks.svg?style=social&label=Fork)](https://GitHub.com/elsayedelmandoh/market_segmentation_neural_networks/network/?WT.mc_id=academic-105485-koreyst)
+[![GitHub stars](https://img.shields.io/github/stars/elsayedelmandoh/market_segmentation_neural_networks.svg?style=social&label=Star)](https://GitHub.com/elsayedelmandoh/market_segmentation_neural_networks/stargazers/?WT.mc_id=academic-105485-koreyst)
+
 ## Author
 
-This repository is maintained by Elsayed Elmandoh, an AI Engineer passionate. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://twitter.com/elsayedelmandoo) for updates and discussions related to deep neural networks and artificial intelligence.
+This repository is maintained by Elsayed Elmandoh, an AI Engineer. You can connect with Elsayed on [LinkedIn and Twitter/X](https://linktr.ee/elsayedelmandoh) for updates and discussions related to Machine learning, deep learning and NLP.
 
-Happy coding and neural networks!
+Happy coding!
